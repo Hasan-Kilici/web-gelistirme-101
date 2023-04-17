@@ -127,8 +127,8 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 - [Footer](https://tasarimlife.com/blog/footer-nedir/#:~:text=Web%20sitelerinin%20alt%20k%C4%B1sm%C4%B1nda%20yer,daha%20profesyonel%20g%C3%B6r%C3%BCnmesine%20yard%C4%B1mc%C4%B1%20olur.) : Web sitesinin alt kısmındaki alan. Genellikle iletişim bilgileri, sosyal medya bağlantıları ve site haritası gibi bilgiler içerir.
 - [UI](https://netvent.com/ui-ve-ux-nedir/) (User Interface): Kullanıcı arayüzü anlamına gelir. Kullanıcının siteye etkileşimli bir şekilde erişimini sağlayan tasarım ve kullanıcı deneyimi unsurlarını kapsar.
 - [UX](https://netvent.com/ui-ve-ux-nedir/) (User Experience): Kullanıcı deneyimi anlamına gelir. Kullanıcının siteyle etkileşimini, siteye erişimini ve kullanımını kapsayan tüm deneyimi içerir.
-- WYSIWYG (What You See Is What You Get): Kullanıcının içerik oluşturma sürecinde gerçek zamanlı olarak nasıl göründüğünü görebildiği bir arayüz anlamına gelir.
-- Debugging: Kodun hatalarını tespit etmek
+- [WYSIWYG](https://tr.wikipedia.org/wiki/WYSIWYG) (What You See Is What You Get): Kullanıcının içerik oluşturma sürecinde gerçek zamanlı olarak nasıl göründüğünü görebildiği bir arayüz anlamına gelir.
+- [Debugging](https://www.niobehosting.com/blog/bug-ve-debug-nedir/) : Kodun hatalarını tespit etmek
 
 <h4>Back-end Terimleri</h4>
 
