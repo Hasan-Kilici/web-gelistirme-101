@@ -252,3 +252,65 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
   <h3>Kolay öğrenme yolları</h3>
 Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awesome" etiketi ile arama yapmaktır. Bu şekilde, ilgili paket veya programlama dili ile ilgili terimleri, paketleri ve kodları görürsünüz. Ayrıca, pdf okumayı tercih edenler için, Google'da <code>"-filetype:pdf"</code> şeklinde arama yaparak örnek olarak <code>"Javascript -filetype:pdf"</code> gibi aramalar yapabilirsiniz. Eğer yazılım öğrenmek için videoları tercih ediyorsanız, Youtube veya freecodecamp gibi platformlarda arama yapabilirsiniz. Ancak, freecodecamp gibi kaynaklar daha verimli sonuçlar verebilir.
 </div>
+
+<h3>Kullanabileceğiniz Paketler</h3>
+<h4>Golang de Back-end yazacaksanız kullanabileceğiniz paketler</h4>
+
+- [Gin-gonic](https://gin-gonic.com/docs/) : Hızlı ve basit bir HTTP web çatısıdır.
+- [net/http](https://pkg.go.dev/net/http) : Go'nun standart kitaplığındaki HTTP paketi, web uygulamaları geliştirmek için kullanılır.
+- gorilla/mux: Güçlü bir yönlendirici ve URL eşleme paketidir.
+- MongoDB sürücüsü: MongoDB veritabanına erişmek için kullanabileceğiniz sürücü paketleri, örneğin go-mongo-driver veya mgo.
+- GORM: Veritabanı işlemlerini basitleştiren bir ORM (Object Relational Mapping) paketi.
+- go-cache: Önbellek yönetimi için bir paket.
+- jwt-go: JSON Web Token (JWT) oluşturmak ve doğrulamak için kullanılan bir paket.
+- bcrypt: Parola şifreleme için kullanılan bir paket.
+- crypto/rand: Rastgele sayı ve bayt oluşturma için kullanılan paket.
+
+<h4>JS'de kullanabileceğiniz paketler</h4>
+
+- Express: Web uygulamaları oluşturmak için hafif bir ve esnek bir framework.
+- Mongoose: MongoDB veritabanı için modeller oluşturmak ve sorguları yönetmek için kullanılan bir ORM (Object-Relational Mapping) aracı.
+- Sequelize: SQL tabanlı veritabanları için ORM aracı.
+- Passport: Kimlik doğrulama ve yetkilendirme için kullanılan bir middleware.
+- Socket.io: Gerçek zamanlı, iki yönlü iletişim için kullanılan bir kütüphane.
+- Morgan: HTTP istekleri için loglama aracı.
+- Moment: Tarih ve saat işlemleri için kullanılan bir kütüphane.
+
+<h4>Rust'da kullanabileceğiniz paketler</h4>
+
+- Rocket.rs : Web uygulamaları oluşturmak için hafif bir ve esnek bir framework.
+- Diesel: SQL tabanlı veritabanları için ORM (Object-Relational Mapping) aracı.
+- Serde: Veri seri hale getirme ve deseri hale getirme işlemleri için kullanılan bir kütüphane.
+- Tokio: Asenkron I/O işlemleri için kullanılan bir kütüphane.
+- Actix: Hızlı ve paralel çalışan HTTP sunucuları ve istek işleme için kullanılan bir framework.
+- Warp: Hızlı ve esnek HTTP framework'ü.
+- Log: Loglama için kullanılan bir kütüphane.
+- Rustls: Güvenli bağlantılar (TLS) için kullanılan bir kütüphane.
+
+<h4>Java da kullanabileceğiniz Paketler</h4>
+
+- Spring Framework: Java için en popüler web framework'lerinden biridir ve birçok açık kaynaklı projede kullanılır. MVC (Model-View-Controller) mimarisine dayalıdır ve RESTful API'lerin yanı sıra tam özellikli web uygulamaları oluşturmak için kullanılabilir.
+- Javalin: Kullanımı kolay, hafif bir web framework'tür ve Kotlin ve Java'yı destekler. Javalin, web uygulamalarının hızlı bir şekilde geliştirilmesini sağlayan birçok özellik sunar ve basit bir API'ye sahiptir.
+- Spark Framework: Java ve Kotlin için minimalist bir web framework'tür. RESTful API'lerin hızlı bir şekilde oluşturulması için tasarlanmıştır ve Java 8+ veya Kotlin 1.4+ gerektirir.
+- Play Framework: Reactive web uygulamaları oluşturmak için kullanılan bir web framework'tür. Scala ve Java için kullanılabilir ve asenkron işlemeyi destekler. Play Framework, birçok bileşen ve özelliğe sahiptir, ancak öğrenmesi biraz zor olabilir.
+
+<h4>Nim'de kullanabileceğiniz paketler</h4>
+
+- Jester: Hızlı, esnek ve kolay kullanımlı bir web framework'ü.
+- Karax: Web uygulamaları için client-side rendering yapmak için kullanılan bir framework.
+- Httpbeast: HTTP sunucusu için minimalist ve hızlı bir seçenek.
+- Pragmatic ORM: ORM (Object Relational Mapping) sistemi sağlar ve farklı veritabanlarına erişim sağlar (PostgreSQL, MySQL, SQLite, vb.).
+- Redis: NoSQL veritabanı, önbellek ve mesaj kuyruğu için kullanılır.
+- SQLite: Hafif ve yerel bir SQL veritabanı.
+- PostgreSQL: İlişkisel veritabanı yönetim sistemi için açık kaynaklı bir seçenek.
+
+<h4>Pythonda kullanabileceğiniz paketler</h4>
+
+- Flask: Basit ve esnek bir web frameworküdür. Tek bir dosyada bir uygulama yazmanızı sağlar.
+- Django: Tam teşekküllü bir web frameworküdür. Veritabanı yönetimi, otomatik form oluşturma, kullanıcı kimlik doğrulama ve yönetimi, admin paneli ve daha pek çok özellik sunar.
+- Pyramid: Esnek bir web frameworküdür. Django'nun sunduğu tam özellikli çözümlere benzer birçok özellik sunar ancak daha az kısıtlayıcıdır.
+- FastAPI: Hızlı ve modern bir web frameworküdür. Performans açısından diğer frameworklere göre daha iyi bir performans gösterir. Aynı zamanda otomatik belgeleme ve doğrulama özellikleri sunar.
+- psycopg2: PostgreSQL veritabanı için sürücüdür.
+- MySQL Connector: MySQL veritabanı için sürücüdür.
+- PyMongo: MongoDB veritabanı için sürücüdür.
+- SQLAlchemy: SQL tabanlı veritabanları için kullanılabilen bir ORM (Object Relational Mapper) kütüphanesidir.
