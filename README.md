@@ -339,6 +339,7 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 - Replit Bounties (https://replit.com/bounties) : Replitte bu kısımda milletin verdiği görevleri para karşılığı tamamlayarak antreman yapıp para kazanabilirsiniz
 </div>
 <div id="ornek-proje">
+
 - Portfolyo sitesi: Kendi portfolyonuzu oluşturmak için bir web sitesi tasarlayabilirsiniz. Bu proje ile birlikte, bir web frameworkünün temel işlevlerini ve özelliklerini öğrenebilirsiniz.
 - Todo app: Basit bir görev listesi uygulaması oluşturarak, bir web frameworkünün veri yönetimi özelliklerini öğrenebilirsiniz. Bu proje ile birlikte, veritabanı modüllerini kullanmayı öğrenerek, CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirebilirsiniz.
 - Blog sitesi: Kendi blog sitenizi oluşturarak, bir web frameworkünün dinamik içerik oluşturma ve yönetme özelliklerini öğrenebilirsiniz. Bu proje ile birlikte, kullanıcı kaydı ve yorum yönetimi gibi özellikleri de ekleyebilirsiniz.
