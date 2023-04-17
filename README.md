@@ -258,6 +258,7 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
   <h3>Kolay öğrenme yolları</h3>
 Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awesome" etiketi ile arama yapmaktır. Bu şekilde, ilgili paket veya programlama dili ile ilgili terimleri, paketleri ve kodları görürsünüz. Ayrıca, pdf okumayı tercih edenler için, Google'da <code>"-filetype:pdf"</code> şeklinde arama yaparak örnek olarak <code>"Javascript -filetype:pdf"</code> gibi aramalar yapabilirsiniz. Eğer yazılım öğrenmek için videoları tercih ediyorsanız, Youtube veya freecodecamp gibi platformlarda arama yapabilirsiniz. Ancak, freecodecamp gibi kaynaklar daha verimli sonuçlar verebilir.
 </div>
+<hr>
 <div id="paketler">
 <h3>Kullanabileceğiniz Paketler</h3>
 <h4>Golang de Back-end yazacaksanız kullanabileceğiniz paketler</h4>
@@ -320,8 +321,9 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 - MySQL Connector: MySQL veritabanı için sürücüdür.
 - PyMongo: MongoDB veritabanı için sürücüdür.
 - SQLAlchemy: SQL tabanlı veritabanları için kullanılabilen bir ORM (Object Relational Mapper) kütüphanesidir.
-</div>
+</div><hr>
 <div id="alistirma">
+  <h3>Alıştırma yapabileceğiniz web siteleri</h3>
  <h4>Front-end Developerler için</h4>
 
 - Frontend Mentor (https://www.frontendmentor.io/challenges): Bu site, gerçek dünya tasarım projeleri için HTML, CSS ve JavaScript alıştırmaları sunar.
