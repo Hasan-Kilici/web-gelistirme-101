@@ -24,6 +24,12 @@
     <td>
       <a href="#kolay-ogrenme-yollari">Kolay öğrenme yolları</a>
     </td>
+    <td>
+      <a href="#paketler">Kullanabileceğiniz paketler</a>
+    </td>
+    <td>
+      <a href="#alistirma">Alıştırma yapabileceğiniz Websiteleri</a>
+    </td>
   </tr>
 </table>
 
@@ -252,7 +258,7 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
   <h3>Kolay öğrenme yolları</h3>
 Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awesome" etiketi ile arama yapmaktır. Bu şekilde, ilgili paket veya programlama dili ile ilgili terimleri, paketleri ve kodları görürsünüz. Ayrıca, pdf okumayı tercih edenler için, Google'da <code>"-filetype:pdf"</code> şeklinde arama yaparak örnek olarak <code>"Javascript -filetype:pdf"</code> gibi aramalar yapabilirsiniz. Eğer yazılım öğrenmek için videoları tercih ediyorsanız, Youtube veya freecodecamp gibi platformlarda arama yapabilirsiniz. Ancak, freecodecamp gibi kaynaklar daha verimli sonuçlar verebilir.
 </div>
-
+<div id="paketler">
 <h3>Kullanabileceğiniz Paketler</h3>
 <h4>Golang de Back-end yazacaksanız kullanabileceğiniz paketler</h4>
 
@@ -314,3 +320,13 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 - MySQL Connector: MySQL veritabanı için sürücüdür.
 - PyMongo: MongoDB veritabanı için sürücüdür.
 - SQLAlchemy: SQL tabanlı veritabanları için kullanılabilen bir ORM (Object Relational Mapper) kütüphanesidir.
+</div>
+<div id="alistirma">
+ <h4>Front-end Developerler için</h4>
+
+- Frontend Mentor (https://www.frontendmentor.io/challenges): Bu site, gerçek dünya tasarım projeleri için HTML, CSS ve JavaScript alıştırmaları sunar.
+- CSS Battle (https://cssbattle.dev/): Bu site, CSS alıştırmaları sunar ve sizi farklı zorluklara sokarak uygulamanızı sağlar.
+- Codevember (https://codevember.xyz/): Bu site, her gün size bir zorluk vererek alıştırmalar yapmanızı sağlar ve CSS, JavaScript, HTML gibi farklı teknolojileri kullanarak projeler oluşturabilirsiniz.
+- Daily UI (https://www.dailyui.co/): Bu site, farklı kullanıcı arayüzü tasarımları için zorluklar sunar ve sizin bu tasarımları yapmanızı isteyebilir.
+- Exercism (https://exercism.io/): Bu site, farklı programlama dilleri için alıştırmalar sunar ve size geri bildirim sağlayarak becerilerinizi geliştirmenize yardımcı olur.
+</div>
