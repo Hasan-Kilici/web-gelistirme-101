@@ -268,10 +268,10 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 
 - [Gin-gonic](https://gin-gonic.com/docs/) : Hızlı ve basit bir HTTP web çatısıdır.
 - [net/http](https://pkg.go.dev/net/http) : Go'nun standart kitaplığındaki HTTP paketi, web uygulamaları geliştirmek için kullanılır.
-- gorilla/mux: Güçlü bir yönlendirici ve URL eşleme paketidir.
-- MongoDB sürücüsü: MongoDB veritabanına erişmek için kullanabileceğiniz sürücü paketleri, örneğin go-mongo-driver veya mgo.
-- GORM: Veritabanı işlemlerini basitleştiren bir ORM (Object Relational Mapping) paketi.
-- go-cache: Önbellek yönetimi için bir paket.
+- [gorilla/mux](https://pkg.go.dev/github.com/gorilla/mux) : Güçlü bir yönlendirici ve URL eşleme paketidir.
+- [MongoDB sürücüsü](https://www.mongodb.com/docs/drivers/go/current/) : MongoDB veritabanına erişmek için kullanabileceğiniz sürücü paketleri, örneğin go-mongo-driver veya mgo.
+- [GORM](https://gorm.io/docs/index.html) : Veritabanı işlemlerini basitleştiren bir ORM (Object Relational Mapping) paketi.
+- [go-cache](https://github.com/patrickmn/go-cache/blob/master/README.md) : Önbellek yönetimi için bir paket.
 - jwt-go: JSON Web Token (JWT) oluşturmak ve doğrulamak için kullanılan bir paket.
 - bcrypt: Parola şifreleme için kullanılan bir paket.
 - crypto/rand: Rastgele sayı ve bayt oluşturma için kullanılan paket.
