@@ -120,13 +120,13 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 - [AJAX](https://www.yusufsezer.com.tr/javascript-ajax/) (Asynchronous JavaScript and XML) : Sayfa yenilemeden veri alışverişi yapmak için kullanılan bir tekniktir.
 - [Cache](https://www.hostinger.web.tr/rehberler/cache-nedir) : Tarayıcıda kaydedilen verilerin tekrar kullanımını sağlayan bir mekanizmadır.
 - [Cookie](https://medium.com/@gokhansengun/http-cookie-nedir-hangi-ama%C3%A7larla-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-5e9b9141fb7b) : Kullanıcının tarayıcısına kaydedilen küçük bir veri parçasıdır. Genellikle kullanıcı tercihlerini, giriş bilgilerini veya alışveriş sepetini tutmak için kullanılır.
-- LocalStorage: Tarayıcının yerel depolama alanıdır. Kullanıcı tercihlerini, sepet bilgilerini veya diğer verileri tutmak için kullanılabilir.
-- SessionStorage: Tarayıcının oturum depolama alanıdır. Kullanıcı oturumu boyunca geçerli olan verileri tutmak için kullanılır.
-- Responsive Design: Web sitesinin farklı ekran boyutlarına uyumlu olacak şekilde tasarlanmasıdır.
-- Navbar: Web sitesindeki gezinme menüsüdür.
-- Footer: Web sitesinin alt kısmındaki alan. Genellikle iletişim bilgileri, sosyal medya bağlantıları ve site haritası gibi bilgiler içerir.
-- UI (User Interface): Kullanıcı arayüzü anlamına gelir. Kullanıcının siteye etkileşimli bir şekilde erişimini sağlayan tasarım ve kullanıcı deneyimi unsurlarını kapsar.
-- UX (User Experience): Kullanıcı deneyimi anlamına gelir. Kullanıcının siteyle etkileşimini, siteye erişimini ve kullanımını kapsayan tüm deneyimi içerir.
+- [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) : Tarayıcının yerel depolama alanıdır. Kullanıcı tercihlerini, sepet bilgilerini veya diğer verileri tutmak için kullanılabilir.
+- [SessionStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/sessionStorage) : Tarayıcının oturum depolama alanıdır. Kullanıcı oturumu boyunca geçerli olan verileri tutmak için kullanılır.
+- [Responsive Design](https://www.w3schools.com/html/html_responsive.asp) : Web sitesinin farklı ekran boyutlarına uyumlu olacak şekilde tasarlanmasıdır.
+- [Navbar](https://www.nedir.com/navigation-bar) : Web sitesindeki gezinme menüsüdür.
+- [Footer](https://tasarimlife.com/blog/footer-nedir/#:~:text=Web%20sitelerinin%20alt%20k%C4%B1sm%C4%B1nda%20yer,daha%20profesyonel%20g%C3%B6r%C3%BCnmesine%20yard%C4%B1mc%C4%B1%20olur.) : Web sitesinin alt kısmındaki alan. Genellikle iletişim bilgileri, sosyal medya bağlantıları ve site haritası gibi bilgiler içerir.
+- [UI](https://netvent.com/ui-ve-ux-nedir/) (User Interface): Kullanıcı arayüzü anlamına gelir. Kullanıcının siteye etkileşimli bir şekilde erişimini sağlayan tasarım ve kullanıcı deneyimi unsurlarını kapsar.
+- [UX](https://netvent.com/ui-ve-ux-nedir/) (User Experience): Kullanıcı deneyimi anlamına gelir. Kullanıcının siteyle etkileşimini, siteye erişimini ve kullanımını kapsayan tüm deneyimi içerir.
 - WYSIWYG (What You See Is What You Get): Kullanıcının içerik oluşturma sürecinde gerçek zamanlı olarak nasıl göründüğünü görebildiği bir arayüz anlamına gelir.
 - Debugging: Kodun hatalarını tespit etmek
 
