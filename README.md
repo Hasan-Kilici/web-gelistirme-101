@@ -336,6 +336,7 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 - Exercism (https://exercism.io/): Bu site, farklı programlama dilleri için alıştırmalar sunar ve size geri bildirim sağlayarak becerilerinizi geliştirmenize yardımcı olur.
 
 <h4>Back-end Developerler için</h4>
+  
 - Replit Bounties (https://replit.com/bounties) : Replitte bu kısımda milletin verdiği görevleri para karşılığı tamamlayarak antreman yapıp para kazanabilirsiniz
 </div>
 <div id="ornek-proje">
