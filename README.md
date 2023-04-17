@@ -272,19 +272,19 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 - [MongoDB sürücüsü](https://www.mongodb.com/docs/drivers/go/current/) : MongoDB veritabanına erişmek için kullanabileceğiniz sürücü paketleri, örneğin go-mongo-driver veya mgo.
 - [GORM](https://gorm.io/docs/index.html) : Veritabanı işlemlerini basitleştiren bir ORM (Object Relational Mapping) paketi.
 - [go-cache](https://github.com/patrickmn/go-cache/blob/master/README.md) : Önbellek yönetimi için bir paket.
-- jwt-go: JSON Web Token (JWT) oluşturmak ve doğrulamak için kullanılan bir paket.
-- bcrypt: Parola şifreleme için kullanılan bir paket.
-- crypto/rand: Rastgele sayı ve bayt oluşturma için kullanılan paket.
+- [jwt-go](https://pkg.go.dev/github.com/golang-jwt/jwt) : JSON Web Token (JWT) oluşturmak ve doğrulamak için kullanılan bir paket.
+- [bcrypt](https://pkg.go.dev/golang.org/x/crypto/bcrypt) : Parola şifreleme için kullanılan bir paket.
+- [crypto/rand](https://pkg.go.dev/crypto/rand) : Rastgele sayı ve bayt oluşturma için kullanılan paket.
 
 <h4>JS'de kullanabileceğiniz paketler</h4>
 
-- Express: Web uygulamaları oluşturmak için hafif bir ve esnek bir framework.
-- Mongoose: MongoDB veritabanı için modeller oluşturmak ve sorguları yönetmek için kullanılan bir ORM (Object-Relational Mapping) aracı.
-- Sequelize: SQL tabanlı veritabanları için ORM aracı.
-- Passport: Kimlik doğrulama ve yetkilendirme için kullanılan bir middleware.
-- Socket.io: Gerçek zamanlı, iki yönlü iletişim için kullanılan bir kütüphane.
-- Morgan: HTTP istekleri için loglama aracı.
-- Moment: Tarih ve saat işlemleri için kullanılan bir kütüphane.
+- [Express](https://www.npmjs.com/package/express) : Web uygulamaları oluşturmak için hafif bir ve esnek bir framework.
+- [Mongoose](https://www.npmjs.com/package/mongoose) : MongoDB veritabanı için modeller oluşturmak ve sorguları yönetmek için kullanılan bir ORM (Object-Relational Mapping) aracı.
+- [Sequelize](https://www.npmjs.com/package/sequelize) : SQL tabanlı veritabanları için ORM aracı.
+- [Passport](https://www.npmjs.com/package/passport) : Kimlik doğrulama ve yetkilendirme için kullanılan bir middleware.
+- [Socket.io](https://www.npmjs.com/package/socket.io) : Gerçek zamanlı, iki yönlü iletişim için kullanılan bir kütüphane.
+- [Morgan](https://www.npmjs.com/package/morgan) : HTTP istekleri için loglama aracı.
+- [Moment](https://www.npmjs.com/package/moment) : Tarih ve saat işlemleri için kullanılan bir kütüphane.
 
 <h4>Rust'da kullanabileceğiniz paketler</h4>
 
