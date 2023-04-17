@@ -46,6 +46,9 @@ Front-end, bir web sitesinin veya uygulamanın arayüzünü kullanıcılarla etk
 Back-end, bir web sitesinin veya uygulamanın arka tarafındaki işlemleri yönetir. Back-end geliştiricileri, sunucu tarafı programlama dilleri (örn. Node.js, PHP, Python, Ruby, Java, C#, Go) kullanarak, sunucuda veritabanlarına erişim, dosya yükleme ve işleme, kullanıcı kimlik doğrulama ve yetkilendirme gibi işlemleri gerçekleştirirler.
 
 Front-end ve back-end, bir web sitesinin veya uygulamanın temelini oluştururlar ve birbiriyle etkileşim halinde çalışırlar.
+
+<h4>Framework nedir?</h4>
+Framework, bir yazılım veya uygulama geliştirmede kullanılan temel yapı veya çatıdır. UI (User Interface) frameworkleri, front-end geliştiricilerinin hazır bileşenler veya şablonlar kullanarak hızlıca arayüz tasarlamasını sağlar. Back-end frameworkleri ise sunucu tarafı işlemlerini yönetmek için kullanılır ve belirli işlevleri gerçekleştirmek için gerekli yapıları ve araçları sağlar. Frameworkler, geliştirme sürecini hızlandırmak, tekrar kullanılabilir kod oluşturmak ve proje yönetimini kolaylaştırmak gibi avantajlar sağlar.
 </div>
 <hr>
 <div id="teknolojiler">
