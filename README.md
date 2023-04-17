@@ -132,14 +132,14 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 
 <h4>Back-end Terimleri</h4>
 
-- Sunucu: İstemci bilgisayarların isteklerini işleyen ve cevap veren bir bilgisayardır.
-- API (Uygulama Programlama Arayüzü): İki farklı yazılım uygulaması arasında veri alışverişine izin veren bir arabirimdir.
-- Veritabanı: Verilerin depolandığı ve yönetildiği bir sistemdir.
-- Framework: Yazılım geliştirmede kullanılan, genel problemleri çözmek için tasarlanmış bir çerçeve veya temel yapıdır.
-- MVC (Model-View-Controller): Web uygulamalarının kodunun organizasyonunu sağlamak için kullanılan bir mimaridir.
-- ORM (Nesne İlişkisel Eşleştirme): Veritabanı nesnelerinin programlama dili nesnelerine eşleştirilmesine izin veren bir teknolojidir.
-- Depolama: Verilerin uzun vadeli saklanması ve yönetilmesi için kullanılan bir sistemdir.
-- Güvenlik: Web uygulamalarının güvenliği ile ilgili konuları ele alır, örneğin kimlik doğrulama, yetkilendirme ve saldırı tespiti ve koruması gibi konuları içerir.
+- [Sunucu](https://bizcom.com.tr/blog/server--sunucu--nedir-ne-ise-yarar-cesitleri-nelerdir) : İstemci bilgisayarların isteklerini işleyen ve cevap veren bir bilgisayardır.
+- [API (Uygulama Programlama Arayüzü)](https://aws.amazon.com/tr/what-is/api/) : İki farklı yazılım uygulaması arasında veri alışverişine izin veren bir arabirimdir.
+- [Veritabanı](https://tr.wikipedia.org/wiki/Veritaban%C4%B1) : Verilerin depolandığı ve yönetildiği bir sistemdir.
+- [Framework](https://www.webtekno.com/framework-nedir-ne-ise-yarar-h117776.html) : Yazılım geliştirmede kullanılan, genel problemleri çözmek için tasarlanmış bir çerçeve veya temel yapıdır.
+- [MVC (Model-View-Controller)](https://medium.com/@kdrcandogan/mvc-nedir-mvc-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-life-cycle-8e124f24650c) : Web uygulamalarının kodunun organizasyonunu sağlamak için kullanılan bir mimaridir.
+- [ORM (Nesne İlişkisel Eşleştirme)](https://medium.com/kodluyoruz/orm-nedir-orm-ara%C3%A7lar%C4%B1-ve-yakla%C5%9F%C4%B1mlar%C4%B1-nelerdir-37af94ee873c) : Veritabanı nesnelerinin programlama dili nesnelerine eşleştirilmesine izin veren bir teknolojidir.
+- [Depolama}(https://www.karyabt.com/storage-veri-depoalama-storage-sistemleri-nedir-1) : Verilerin uzun vadeli saklanması ve yönetilmesi için kullanılan bir sistemdir.
+- [Güvenlik](https://siberdagitim.com/Web-Sitesi-Guvenligi-nedir-a3) : Web uygulamalarının güvenliği ile ilgili konuları ele alır, örneğin kimlik doğrulama, yetkilendirme ve saldırı tespiti ve koruması gibi konuları içerir.
 
 </div>
 <hr>
