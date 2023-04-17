@@ -10,7 +10,7 @@
       <a href="#front-end">Front-end</a>
     </td>
     <td>
-      <a href="#back-end">Back-end]</a>
+      <a href="#back-end">Back-end</a>
     </td>
     <td>
       <a href="#teknolojiler">Teknolojiler</a>
