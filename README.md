@@ -115,11 +115,11 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 <h3>Terimler</h3> 
 <h4>Front-end Terimleri</h4>
 
-- SPA (Single Page Application): Tek sayfa uygulamaları anlamına gelir. Kullanıcının sayfa yenilemesine gerek kalmadan arka planda dinamik olarak sayfa içeriği değiştirilebilir.
-- CSR (Client Side Rendering): İstemci taraflı renderleme anlamına gelir. Sayfa içeriği istemci tarafında (tarayıcıda) hazırlanır.
-- AJAX (Asynchronous JavaScript and XML): Sayfa yenilemeden veri alışverişi yapmak için kullanılan bir tekniktir.
-- Cache: Tarayıcıda kaydedilen verilerin tekrar kullanımını sağlayan bir mekanizmadır.
-- Cookie: Kullanıcının tarayıcısına kaydedilen küçük bir veri parçasıdır. Genellikle kullanıcı tercihlerini, giriş bilgilerini veya alışveriş sepetini tutmak için kullanılır.
+- [SPA](https://tugrulbayrak.medium.com/single-page-application-spa-nedir-3960e43d9ef3) (Single Page Application): Tek sayfa uygulamaları anlamına gelir. Kullanıcının sayfa yenilemesine gerek kalmadan arka planda dinamik olarak sayfa içeriği değiştirilebilir.
+- [CSR](https://zeo.org/tr/kaynaklar/blog/javascript-seo-ssr-ve-csr-nedir-avantajlari-ve-dezavantajlari#:~:text=Client%2Dside%20rendering%20(CSR)%3A,i%C3%A7eri%C4%9Fini%20olu%C5%9Fturan%20Javascript%20kodlar%C4%B1%20bulunur.) (Client Side Rendering): İstemci taraflı renderleme anlamına gelir. Sayfa içeriği istemci tarafında (tarayıcıda) hazırlanır.
+- [AJAX](https://www.yusufsezer.com.tr/javascript-ajax/) (Asynchronous JavaScript and XML) : Sayfa yenilemeden veri alışverişi yapmak için kullanılan bir tekniktir.
+- [Cache](https://www.hostinger.web.tr/rehberler/cache-nedir) : Tarayıcıda kaydedilen verilerin tekrar kullanımını sağlayan bir mekanizmadır.
+- [Cookie](https://medium.com/@gokhansengun/http-cookie-nedir-hangi-ama%C3%A7larla-ve-nas%C4%B1l-kullan%C4%B1l%C4%B1r-5e9b9141fb7b) : Kullanıcının tarayıcısına kaydedilen küçük bir veri parçasıdır. Genellikle kullanıcı tercihlerini, giriş bilgilerini veya alışveriş sepetini tutmak için kullanılır.
 - LocalStorage: Tarayıcının yerel depolama alanıdır. Kullanıcı tercihlerini, sepet bilgilerini veya diğer verileri tutmak için kullanılabilir.
 - SessionStorage: Tarayıcının oturum depolama alanıdır. Kullanıcı oturumu boyunca geçerli olan verileri tutmak için kullanılır.
 - Responsive Design: Web sitesinin farklı ekran boyutlarına uyumlu olacak şekilde tasarlanmasıdır.
