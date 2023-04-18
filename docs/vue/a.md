@@ -1,0 +1,1 @@
+# konyalıların allahını sewerem
