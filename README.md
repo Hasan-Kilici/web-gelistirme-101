@@ -1,6 +1,6 @@
 # Web geliştirme 101
 ![image](https://user-images.githubusercontent.com/105741983/232443884-5c02b5ea-e4ba-4ed8-a872-6920b84137df.png)
-    
+     
 <table>
   <tr>
     <td>
