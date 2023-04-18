@@ -33,6 +33,9 @@
     <td>
       <a href="#ornek-proje">Örnek Projeler, ve Proje fikirleri</a>
     </td>
+    <td>
+      <a href="#kariyer">Kariyerinizi iyi etkiliyebilecek youtube kanalları , github hesapları ve github repoları</a>
+    </td>
   </tr>
 </table>
 
@@ -171,15 +174,18 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
   - [w3.css](https://www.w3schools.com/w3css/defaulT.asp)
   - [Chakra UI](https://chakra-ui.com/getting-started)
   - [Sematic UI](https://semantic-ui.com/introduction/getting-started.html)
+  - [Nadun Indunil - Material UI](https://github.com/nadunindunil/awesome-material-ui)
   
   
   <h5>Videolu Kaynaklar</h5>
 
   - [HTML,CSS,JS,BOOTSTRAP,JQUERY Dersleri (172 video)](https://www.youtube.com/watch?v=Y86zzWRle3g&list=PLURN6mxdcwL_D8H1iki2YCmp-lNyNAdbz)
-  - [React dersleri (35 video)](https://www.youtube.com/watch?v=lNfBlYAk3Lw&list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj)
-  - [Svelte dersleri (13 video)](https://www.youtube.com/watch?v=Uk6h-N0DBr0&list=PLfAfrKyDRWrG3FFzaO7dym4CPfitc1nTY)
-  - [Vue Bootcamp (23 video)](https://www.youtube.com/watch?v=SAIBu6YvErE&list=PL_f2F0Oyaj48Y0Uv4BTlqzK7INi92D2wp)
-  - [CSS Dersleri (103 video)](https://www.youtube.com/watch?v=XlDMdKznPhU&list=PLfAfrKyDRWrFYc77WNfwQpS9-DBBdir_I)
+  - [Kodluyoruz HTML Dersleri ](https://www.youtube.com/watch?v=CsRT-4sucig&list=PLGrTHqyRDvx7aP99nDNRKDi70bLFr_kX-) 
+  - [React dersleri (35 Video)](https://www.youtube.com/watch?v=lNfBlYAk3Lw&list=PLIHume2cwmHeydP0GkOzSxJHT1ph1BrWj)
+  - [Svelte dersleri (13 Video)](https://www.youtube.com/watch?v=Uk6h-N0DBr0&list=PLfAfrKyDRWrG3FFzaO7dym4CPfitc1nTY)
+  - [Vue Bootcamp (23 Video)](https://www.youtube.com/watch?v=SAIBu6YvErE&list=PL_f2F0Oyaj48Y0Uv4BTlqzK7INi92D2wp)
+  - [CSS Dersleri (103 Video)](https://www.youtube.com/watch?v=XlDMdKznPhU&list=PLfAfrKyDRWrFYc77WNfwQpS9-DBBdir_I)
+  - [Kodluyoruz Front-End Dersleri (49 Video)](https://www.youtube.com/watch?v=gndWkaTyo6g&list=PLGrTHqyRDvx6PqKkqSPwph57HNN4RWgR2)
 
   <h5>PDFler</h5>
   
@@ -194,7 +200,8 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
  - [React](https://www.tradesoft.com.tr/assets/uploads/pdf/react-code-kilavuzu.pdf)
  - [Svelte](https://mvolkmann.github.io/programming/svelte-article/svelte-article.pdf)
  - [Vue](https://learnvue.co/LearnVue-Vue-3-Cheatsheet.pdf)
-  
+ - [MUI](https://edu.anarcho-copy.org/Programming%20Languages/Node/react-material-ui-cookbook.pdf)
+ 
   <h5>Awesome serileri</h5>
   
  - [alternative-front-ends](https://github.com/mendel5/alternative-front-ends)
@@ -207,7 +214,7 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
  - [awesome bootstrap](https://github.com/awesome-bootstrap-org/awesome-bootstrap)
  - [awesome html5](https://github.com/diegocard/awesome-html5)
  - [awesome js - videolu anlatımlar](https://github.com/bolshchikov/js-must-watch)
-  
+
   <h4>Back-end Kaynakları</h4>
   
   <h5>Yazılı Kaynaklar</h5>
@@ -221,7 +228,7 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
  - [Ruby on Rails](https://guides.rubyonrails.org/getting_started.html)
  - [Lapis](https://leafo.net/lapis/), [OpenResty](https://openresty-reference.readthedocs.io/en/latest/)
  - [Django](https://docs.djangoproject.com/en/4.2/), [Flask](https://flask.palletsprojects.com/en/2.2.x/)
- - [PHP](php.net/docs.php)
+ - [PHP](https://php.net/docs.php)
  - [SQL](https://www.w3schools.com/sql/default.asp)
  - [MongoDB](https://www.mongodb.com/docs/manual/tutorial/)
   
@@ -243,11 +250,18 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 
   <h5>Awesome serileri</h5>
   
-  - [SQL](https://github.com/danhuss/awesome-sql)
-  - [GO](https://github.com/avelino/awesome-go)
+  - [SQL](https://github.com/danhuss/awesome-sql) 
+  - [GO](https://github.com/avelino/awesome-go)  
   - [Benim Go Derslerim](https://github.com/hasan-kilici/go-tutorials)
   - [JS](https://github.com/errilaz/awesome-js-runtimes)
   - [PHP](https://github.com/ziadoz/awesome-php)
+  - [Gin-Gonic](https://github.com/FlowerWrong/awesome-gin)
+  - [Express.js](https://github.com/rajikaimal/awesome-express)
+  - [Ruby on rails](https://github.com/gramantin/awesome-rails)
+  - [Nim](https://github.com/ringabout/awesome-nim)
+  - [Python - Django](https://github.com/wsvincent/awesome-django)
+  - [MongoDB](https://github.com/ramnes/awesome-mongodb)
+  
 <div>
 
 <h4>Hepsi bir arada</h4>
@@ -289,42 +303,41 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 
 <h4>Rust'da kullanabileceğiniz paketler</h4>
 
-- Rocket.rs : Web uygulamaları oluşturmak için hafif bir ve esnek bir framework.
-- Diesel: SQL tabanlı veritabanları için ORM (Object-Relational Mapping) aracı.
-- Serde: Veri seri hale getirme ve deseri hale getirme işlemleri için kullanılan bir kütüphane.
-- Tokio: Asenkron I/O işlemleri için kullanılan bir kütüphane.
-- Actix: Hızlı ve paralel çalışan HTTP sunucuları ve istek işleme için kullanılan bir framework.
-- Warp: Hızlı ve esnek HTTP framework'ü.
-- Log: Loglama için kullanılan bir kütüphane.
-- Rustls: Güvenli bağlantılar (TLS) için kullanılan bir kütüphane.
+- [Rocket.rs](https://api.rocket.rs/v0.5-rc/rocket/) : Web uygulamaları oluşturmak için hafif bir ve esnek bir framework.
+- [Diesel](https://docs.rs/diesel/latest/diesel/) : SQL tabanlı veritabanları için ORM (Object-Relational Mapping) aracı.
+- [Serde](https://docs.rs/serde/latest/serde/) : Veri seri hale getirme ve deseri hale getirme işlemleri için kullanılan bir kütüphane.
+- [Tokio](https://docs.rs/tokio/latest/tokio/) : Asenkron I/O işlemleri için kullanılan bir kütüphane.
+- [Actix](https://actix.rs/docs/) : Hızlı ve paralel çalışan HTTP sunucuları ve istek işleme için kullanılan bir framework.
+- [Warp](https://docs.rs/warp/latest/warp/) : Hızlı ve esnek HTTP framework'ü.
+- [Log](https://docs.rs/log/latest/log/) : Loglama için kullanılan bir kütüphane.
+- [Rustls](https://docs.rs/rustls/latest/rustls/) : Güvenli bağlantılar (TLS) için kullanılan bir kütüphane.
 
 <h4>Java da kullanabileceğiniz Paketler</h4>
 
-- Spring Framework: Java için en popüler web framework'lerinden biridir ve birçok açık kaynaklı projede kullanılır. MVC (Model-View-Controller) mimarisine dayalıdır ve RESTful API'lerin yanı sıra tam özellikli web uygulamaları oluşturmak için kullanılabilir.
-- Javalin: Kullanımı kolay, hafif bir web framework'tür ve Kotlin ve Java'yı destekler. Javalin, web uygulamalarının hızlı bir şekilde geliştirilmesini sağlayan birçok özellik sunar ve basit bir API'ye sahiptir.
-- Spark Framework: Java ve Kotlin için minimalist bir web framework'tür. RESTful API'lerin hızlı bir şekilde oluşturulması için tasarlanmıştır ve Java 8+ veya Kotlin 1.4+ gerektirir.
-- Play Framework: Reactive web uygulamaları oluşturmak için kullanılan bir web framework'tür. Scala ve Java için kullanılabilir ve asenkron işlemeyi destekler. Play Framework, birçok bileşen ve özelliğe sahiptir, ancak öğrenmesi biraz zor olabilir.
+- [Spring Framework](https://docs.spring.io/spring-framework/docs/current/reference/html/) : Java için en popüler web framework'lerinden biridir ve birçok açık kaynaklı projede kullanılır. MVC (Model-View-Controller) mimarisine dayalıdır ve RESTful API'lerin yanı sıra tam özellikli web uygulamaları oluşturmak için kullanılabilir.
+- [Javalin](https://javalin.io/documentation) : Kullanımı kolay, hafif bir web framework'tür ve Kotlin ve Java'yı destekler. Javalin, web uygulamalarının hızlı bir şekilde geliştirilmesini sağlayan birçok özellik sunar ve basit bir API'ye sahiptir.
+- [Spark Framework](https://spark.apache.org/docs/latest/) : Java ve Kotlin için minimalist bir web framework'tür. RESTful API'lerin hızlı bir şekilde oluşturulması için tasarlanmıştır ve Java 8+ veya Kotlin 1.4+ gerektirir.
+- [Play Framework](https://www.playframework.com/documentation/2.8.x/JavaHome) : Reactive web uygulamaları oluşturmak için kullanılan bir web framework'tür. Scala ve Java için kullanılabilir ve asenkron işlemeyi destekler. Play Framework, birçok bileşen ve özelliğe sahiptir, ancak öğrenmesi biraz zor olabilir.
 
 <h4>Nim'de kullanabileceğiniz paketler</h4>
 
-- Jester: Hızlı, esnek ve kolay kullanımlı bir web framework'ü.
-- Karax: Web uygulamaları için client-side rendering yapmak için kullanılan bir framework.
-- Httpbeast: HTTP sunucusu için minimalist ve hızlı bir seçenek.
-- Pragmatic ORM: ORM (Object Relational Mapping) sistemi sağlar ve farklı veritabanlarına erişim sağlar (PostgreSQL, MySQL, SQLite, vb.).
-- Redis: NoSQL veritabanı, önbellek ve mesaj kuyruğu için kullanılır.
-- SQLite: Hafif ve yerel bir SQL veritabanı.
-- PostgreSQL: İlişkisel veritabanı yönetim sistemi için açık kaynaklı bir seçenek.
+- [Jester](https://github.com/dom96/jester) : Hızlı, esnek ve kolay kullanımlı bir web framework'ü.
+- [Karax](https://github.com/karaxnim/karax) : Web uygulamaları için client-side rendering yapmak için kullanılan bir framework.
+- [Httpbeast](https://github.com/dom96/httpbeast) : HTTP sunucusu için minimalist ve hızlı bir seçenek.
+- [Redis](https://github.com/nim-lang/redis) : NoSQL veritabanı, önbellek ve mesaj kuyruğu için kullanılır.
+- [SQLite](https://nim-lang.org/docs/db_sqlite.html) : Hafif ve yerel bir SQL veritabanı.
+- [PostgreSQL](https://nim-lang.org/docs/db_postgres.html) : İlişkisel veritabanı yönetim sistemi için açık kaynaklı bir seçenek.
 
 <h4>Pythonda kullanabileceğiniz paketler</h4>
 
-- Flask: Basit ve esnek bir web frameworküdür. Tek bir dosyada bir uygulama yazmanızı sağlar.
-- Django: Tam teşekküllü bir web frameworküdür. Veritabanı yönetimi, otomatik form oluşturma, kullanıcı kimlik doğrulama ve yönetimi, admin paneli ve daha pek çok özellik sunar.
-- Pyramid: Esnek bir web frameworküdür. Django'nun sunduğu tam özellikli çözümlere benzer birçok özellik sunar ancak daha az kısıtlayıcıdır.
-- FastAPI: Hızlı ve modern bir web frameworküdür. Performans açısından diğer frameworklere göre daha iyi bir performans gösterir. Aynı zamanda otomatik belgeleme ve doğrulama özellikleri sunar.
-- psycopg2: PostgreSQL veritabanı için sürücüdür.
-- MySQL Connector: MySQL veritabanı için sürücüdür.
+- [Flask](https://flask.palletsprojects.com/en/2.2.x/) : Basit ve esnek bir web frameworküdür. Tek bir dosyada bir uygulama yazmanızı sağlar.
+- [Django](https://docs.djangoproject.com/en/4.2/) : Tam teşekküllü bir web frameworküdür. Veritabanı yönetimi, otomatik form oluşturma, kullanıcı kimlik doğrulama ve yönetimi, admin paneli ve daha pek çok özellik sunar.
+- [Pyramid](https://docs.pylonsproject.org/projects/pyramid/en/latest/index.html) : Esnek bir web frameworküdür. Django'nun sunduğu tam özellikli çözümlere benzer birçok özellik sunar ancak daha az kısıtlayıcıdır.
+- [FastAPI](https://devdocs.io/fastapi/) : Hızlı ve modern bir web frameworküdür. Performans açısından diğer frameworklere göre daha iyi bir performans gösterir. Aynı zamanda otomatik belgeleme ve doğrulama özellikleri sunar.
+- [psycopg2](https://www.psycopg.org/psycopg3/docs/) : PostgreSQL veritabanı için sürücüdür.
+- [MySQL Connector](https://dev.mysql.com/doc/connector-python/en/) : MySQL veritabanı için sürücüdür.
 - PyMongo: MongoDB veritabanı için sürücüdür.
-- SQLAlchemy: SQL tabanlı veritabanları için kullanılabilen bir ORM (Object Relational Mapper) kütüphanesidir.
+- [SQLAlchemy](https://docs.sqlalchemy.org/en/20/core/engines.html) : SQL tabanlı veritabanları için kullanılabilen bir ORM (Object Relational Mapper) kütüphanesidir.
 </div><hr>
 <div id="alistirma">
   <h3>Alıştırma yapabileceğiniz web siteleri</h3>
@@ -346,4 +359,14 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 - Portfolyo sitesi: Kendi portfolyonuzu oluşturmak için bir web sitesi tasarlayabilirsiniz. Bu proje ile birlikte, bir web frameworkünün temel işlevlerini ve özelliklerini öğrenebilirsiniz.
 - Todo app: Basit bir görev listesi uygulaması oluşturarak, bir web frameworkünün veri yönetimi özelliklerini öğrenebilirsiniz. Bu proje ile birlikte, veritabanı modüllerini kullanmayı öğrenerek, CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirebilirsiniz.
 - Blog sitesi: Kendi blog sitenizi oluşturarak, bir web frameworkünün dinamik içerik oluşturma ve yönetme özelliklerini öğrenebilirsiniz. Bu proje ile birlikte, kullanıcı kaydı ve yorum yönetimi gibi özellikleri de ekleyebilirsiniz.
+</div>
+<div id="kariyer">
+<h3>Kariyerinizi İyi Etkiliyebilecek YouTube Kanalları ,Github Hesapları ve Github repositoryleri</h3>  
+  
+- [Patika.dev - YouTube ](https://www.youtube.com/watch?v=q2tjTKwz9IE&list=PL1TEcULbcSLHMWxW3W8h48h_oF8Z3zxkP) : Web geliştirme, Mobil uygulama geliştirme, Blockchain gibi konulara derinlemesine dalan bir platform.
+- [Can Değer - Github ](https://github.com/LuNiZz/siber-guvenlik-sss) : Beyaz Takkeli Tornacı
+- [fabacab - Cybersecurity Blue Team](https://github.com/fabacab/awesome-cybersecurity-blueteam) :  Siber güvenlik alanında kendini geliştirmek isteyen kişiler için baya mükemmel kaynak
+- [TheComputerM - Awesome Svelte Kit](https://github.com/TheComputerM/awesome-svelte) : Svelte Mükemmel bir Front-end Frameworkdür. Svelte Kit ise React'ın Next.js'i Vue'nin Nuxt'ı gibidir.
+- [Fireship - Youtube](https://www.youtube.com/@Fireship) : Youtube'nin En Kaliteli yazılım kanalı. gerekse miimleri ile olsun gerekse anlatımı ile olsun gerekse anlattığı şeyler olsun. Gerçekten aşırı kaliteli ve aşırı uğraşılmış. şiddetle takip etmenizi öneriyorum
+- [Online Tutorials](https://www.youtube.com/@OnlineTutorialsYT/videos) : Front-End  developer'lar için olmassa olmaz bir kanal.
 </div>
