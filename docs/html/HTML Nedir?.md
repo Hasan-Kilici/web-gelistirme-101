@@ -16,6 +16,7 @@ Gövde bölümü, sayfanın ana içeriğini içerir ve <&nbsp;body> etiketi aras
 Altbilgi bölümü, sayfanın alt kısmında yer alan bilgileri içerir ve <&nbsp;footer> etiketi arasında yer alır.
 
   <h3>Örnek kod</h3>
+  
 ```html
 <!DOCTYPE html>
 <html>
