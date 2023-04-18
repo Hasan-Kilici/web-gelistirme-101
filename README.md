@@ -104,7 +104,7 @@ Back-end tarafında ise istediğiniz programlama dilinde yazabilirsiniz. Bazı p
 - Ruby: [Ruby on Rails](https://guides.rubyonrails.org/getting_started.html)
 - Lua: [Lapis](https://leafo.net/lapis/), [OpenResty](https://openresty-reference.readthedocs.io/en/latest/)
 - Python : [Django](https://docs.djangoproject.com/en/4.2/), [Flask](https://flask.palletsprojects.com/en/2.2.x/)
-- [PHP](php.net/docs.php)
+- [PHP](https://php.net/docs.php)
 
 PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt viewport kullanımı ya da [Laravel](https://laravel.com/docs/10.x/installation) kullanımı gibi farklı PHP kullanım alanları bulunmaktadır.
 
@@ -229,7 +229,8 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
   
   - [Golang, gin Tutorial (14 video)](https://www.youtube.com/watch?v=qR0WnWL2o1Q&list=PL3eAkoh7fypr8zrkiygiY1e9osoqjoV9w)
   - [Java Spring dersleri (26 video)](https://www.youtube.com/watch?v=qcfQbJr6Bi0&list=PLHHxlyNPK3PEiySM3TdqIrvSIVGGfPS43)
-  
+  - [Express, mongodb dersleri (39 video)](https://www.youtube.com/watch?v=yR7tAOJC-8M&list=PL-Hkw4CrSVq8QPLj2UDB-GAtQvBaCBG4D)
+
   <h5>PDFler</h5>
 
  - [Gin-Gonic, SQL, PostgreSQL](https://objectcomputing.com/files/4515/5292/5008/Slide_Deck_REST_Services_in_Go_Tutorial.pdf)
