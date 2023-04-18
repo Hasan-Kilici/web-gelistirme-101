@@ -1,4 +1,4 @@
-<h1>HTML Editör nedir?
+<h1>HTML Editör nedir?</h1>
 HTML Editör, web sayfaları oluşturmak için kullanılan bir yazılımdır. 
 Bu programlar, HTML kodu yazmanızı ve web sayfanızın düzenini oluşturmanızı kolaylaştırır.
 
