@@ -36,6 +36,9 @@
     <td>
       <a href="#kariyer">Kariyerinizi iyi etkiliyebilecek youtube kanalları , github hesapları ve github repoları</a>
     </td>
+    <td>
+      <a href="#kendi-dokumasyonumuz">Kendi Dökümasyonumuz</a>
+    </td>
   </tr>
 </table>
 
