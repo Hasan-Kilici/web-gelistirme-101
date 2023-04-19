@@ -1,4 +1,4 @@
-### On unmount
+### On mount
 ```js
 import { useState, useEffect } from "react";
 
