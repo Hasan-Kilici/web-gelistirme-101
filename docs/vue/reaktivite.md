@@ -33,6 +33,6 @@
 </script>
 
 <template>
-    <div>Hello {{ name }}</div>
+    <div>{{ doubleCount }}</div>
 </template>
 ```
