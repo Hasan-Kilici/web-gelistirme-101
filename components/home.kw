@@ -1,0 +1,9 @@
+
+<div id="sidebar" class="sidebar" style="height:100vh;">
+
+</div>
+<div class="content" id="content">
+<div class="d" onclick="openSidebar()"><i class="fa-duotone fa-bars-sort" style="--fa-secondary-opacity: 0.8;"></i></div>
+<h3>Başlarken</h3>
+Bu Github repository'si, web geliştirme alanına yeni başlayanlar için bir rehberdir. <br>Front-end ve back-end konularına odaklanan rehberde, HTML, CSS, JavaScript, UI frameworkleri, sunucu tarafı programlama dilleri gibi konular ele alınmaktadır.<br> Bu kaynaklar, web geliştirme konusunda temel bilgileri öğrenmek isteyenler için harika bir başlangıç noktasıdır.
+</div>
