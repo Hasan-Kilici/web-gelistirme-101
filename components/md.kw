@@ -1,0 +1,7 @@
+<div id="sidebar" class="sidebar" style="height:100vh;">
+
+</div>
+<div class="content" id="content">
+<div class="d" onclick="openSidebar()"><i class="fa-duotone fa-bars-sort" style="--fa-secondary-opacity: 0.8;"></i></div>
+
+</div>
