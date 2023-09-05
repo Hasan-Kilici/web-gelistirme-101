@@ -388,6 +388,8 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 - [Fireship - Youtube](https://www.youtube.com/@Fireship) : Youtube'nin En Kaliteli yazılım kanalı. gerekse miimleri ile olsun gerekse anlatımı ile olsun gerekse anlattığı şeyler olsun. Gerçekten aşırı kaliteli ve aşırı uğraşılmış. şiddetle takip etmenizi öneriyorum
 - [Online Tutorials](https://www.youtube.com/@OnlineTutorialsYT/videos) : Front-End  developer'lar için olmassa olmaz bir kanal.
 - [Jon Gjengset](https://www.youtube.com/@jonhoo) : Rust Developerler için en iyi kanal
+- [PROTOTURK](https://www.youtube.com/@PROTOTURKCOM) : Anlatılmaz yaşanır :)
+- [Web makinesi](https://www.youtube.com/@WebMakinasi) : PHP, Wordpress ile ilgilenen Developerler için ideal bir kanal
 </div><hr>
 <div id="kendi-dokumasyonumuz">
 <h3>Kendi Dökümasyonlarımız</h3>
