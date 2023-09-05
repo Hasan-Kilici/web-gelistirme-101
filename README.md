@@ -19,6 +19,9 @@
       <a href="#terimler">Terimler</a>
     </td>
     <td>
+        <a href="#roadmapler">Yol Haritaları</a>
+    </td>
+    <td>
       <a href="#kaynaklar">Kaynaklar</a>
     </td>
     <td>
@@ -66,6 +69,7 @@ Front-end ve back-end, bir web sitesinin veya uygulamanın temelini oluştururla
 Framework, bir yazılım veya uygulama geliştirmede kullanılan temel yapı veya çatıdır. UI (User Interface) frameworkleri, front-end geliştiricilerinin hazır bileşenler veya şablonlar kullanarak hızlıca arayüz tasarlamasını sağlar. Back-end frameworkleri ise sunucu tarafı işlemlerini yönetmek için kullanılır ve belirli işlevleri gerçekleştirmek için gerekli yapıları ve araçları sağlar. Frameworkler, geliştirme sürecini hızlandırmak, tekrar kullanılabilir kod oluşturmak ve proje yönetimini kolaylaştırmak gibi avantajlar sağlar.
 </div>
 <hr>
+
 <div id="teknolojiler">
 
 Web geliştirme, kendi içinde iki alana ayrılır: Front-end (site arayüzü geliştirme) ve Back-end (sunucu tarafı geliştirme).
@@ -149,6 +153,17 @@ PHP de kullanabileceğiniz bir diğer seçenek olabilir. Mikroservisler, direkt 
 
 </div>
 <hr>
+
+<div id="roadmapler">
+
+- [Front-end development Roadmap](https://roadmap.sh/frontend)
+- [Back-end development Roadmap](https://roadmap.sh/backend)
+- [Full-stack development Roadmap](https://roadmap.sh/full-stack)
+- [JavaScript Roadmap](https://roadmap.sh/javascript)
+- [Golang Roadmap](https://roadmap.sh/golang)
+- [SQL Roadmap](https://roadmap.sh/sql)
+- [MongoDB Roadmap](https://roadmap.sh/mongodb)
+</div>
 
 <div id="kaynaklar">
   <h3>Kaynaklar</h3>
@@ -346,18 +361,18 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
   <h3>Alıştırma yapabileceğiniz web siteleri</h3>
  <h4>Front-end Developerler için</h4>
 
-- Frontend Mentor (https://www.frontendmentor.io/challenges): Bu site, gerçek dünya tasarım projeleri için HTML, CSS ve JavaScript alıştırmaları sunar.
-- CSS Battle (https://cssbattle.dev/): Bu site, CSS alıştırmaları sunar ve sizi farklı zorluklara sokarak uygulamanızı sağlar.
-- Codevember (https://codevember.xyz/): Bu site, her gün size bir zorluk vererek alıştırmalar yapmanızı sağlar ve CSS, JavaScript, HTML gibi farklı teknolojileri kullanarak projeler oluşturabilirsiniz.
-- Daily UI (https://www.dailyui.co/): Bu site, farklı kullanıcı arayüzü tasarımları için zorluklar sunar ve sizin bu tasarımları yapmanızı isteyebilir.
-- Exercism (https://exercism.io/): Bu site, farklı programlama dilleri için alıştırmalar sunar ve size geri bildirim sağlayarak becerilerinizi geliştirmenize yardımcı olur.
+- [Frontend Mentor](https://www.frontendmentor.io/challenges): Bu site, gerçek dünya tasarım projeleri için HTML, CSS ve JavaScript alıştırmaları sunar.
+- [CSS Battle](https://cssbattle.dev/): Bu site, CSS alıştırmaları sunar ve sizi farklı zorluklara sokarak uygulamanızı sağlar.
+- [Codevember](https://codevember.xyz/): Bu site, her gün size bir zorluk vererek alıştırmalar yapmanızı sağlar ve CSS, JavaScript, HTML gibi farklı teknolojileri kullanarak projeler oluşturabilirsiniz.
+- [Daily UI](https://www.dailyui.co/): Bu site, farklı kullanıcı arayüzü tasarımları için zorluklar sunar ve sizin bu tasarımları yapmanızı isteyebilir.
+- [Exercism](https://exercism.io/): Bu site, farklı programlama dilleri için alıştırmalar sunar ve size geri bildirim sağlayarak becerilerinizi geliştirmenize yardımcı olur.
 
 <h4>Back-end Developerler için</h4>
   
-- Replit Bounties (https://replit.com/bounties) : Replitte bu kısımda milletin verdiği görevleri para karşılığı tamamlayarak antreman yapıp para kazanabilirsiniz
+- [Replit Bounties](https://replit.com/bounties) : Replitte bu kısımda milletin verdiği görevleri para karşılığı tamamlayarak antreman yapıp para kazanabilirsiniz
 </div>
 <div id="ornek-proje">
-<h3>Örnek Projeler</h3>
+<h3>Örnek Projeler - Front end</h3>
 
 - Portfolyo sitesi: Kendi portfolyonuzu oluşturmak için bir web sitesi tasarlayabilirsiniz. Bu proje ile birlikte, bir web frameworkünün temel işlevlerini ve özelliklerini öğrenebilirsiniz.
 - Todo app: Basit bir görev listesi uygulaması oluşturarak, bir web frameworkünün veri yönetimi özelliklerini öğrenebilirsiniz. Bu proje ile birlikte, veritabanı modüllerini kullanmayı öğrenerek, CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirebilirsiniz.
@@ -375,7 +390,7 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 </div><hr>
 <div id="kendi-dokumasyonumuz">
 <h3>Kendi Dökümasyonlarımız</h3>
-
+[Golang Dersleri](https://github.com/Hasan-Kilici/go-tutorials)
 ```
 isterseniz fork atıp ekleme yapabilirsiniz.
 ```
