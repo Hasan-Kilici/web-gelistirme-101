@@ -372,7 +372,7 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 - [Replit Bounties](https://replit.com/bounties) : Replitte bu kısımda milletin verdiği görevleri para karşılığı tamamlayarak antreman yapıp para kazanabilirsiniz
 </div>
 <div id="ornek-proje">
-<h3>Örnek Projeler - Front end</h3>
+<h3>Örnek Projeler</h3>
 
 - Portfolyo sitesi: Kendi portfolyonuzu oluşturmak için bir web sitesi tasarlayabilirsiniz. Bu proje ile birlikte, bir web frameworkünün temel işlevlerini ve özelliklerini öğrenebilirsiniz.
 - Todo app: Basit bir görev listesi uygulaması oluşturarak, bir web frameworkünün veri yönetimi özelliklerini öğrenebilirsiniz. Bu proje ile birlikte, veritabanı modüllerini kullanmayı öğrenerek, CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştirebilirsiniz.
@@ -390,11 +390,9 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 </div><hr>
 <div id="kendi-dokumasyonumuz">
 <h3>Kendi Dökümasyonlarımız</h3>
-[Golang Dersleri](https://github.com/Hasan-Kilici/go-tutorials)
-```
-isterseniz fork atıp ekleme yapabilirsiniz.
-```
-
+<code>isterseniz fork atıp ekleme yapabilirsiniz.</code>
+<br>
+- [Golang Dersleri](https://github.com/Hasan-Kilici/go-tutorials)
 - [HTML Dökümasyonu](https://hasan-kilici.github.io/#/lang?param=html)
 - [React Dökümasyonu](https://hasan-kilici.github.io/#/lang?param=react)
 - [Svelte Dökümasyonu](https://hasan-kilici.github.io/#/lang?param=svelte)
