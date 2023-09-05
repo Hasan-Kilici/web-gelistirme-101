@@ -379,7 +379,7 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 - Blog sitesi: Kendi blog sitenizi oluşturarak, bir web frameworkünün dinamik içerik oluşturma ve yönetme özelliklerini öğrenebilirsiniz. Bu proje ile birlikte, kullanıcı kaydı ve yorum yönetimi gibi özellikleri de ekleyebilirsiniz.
 </div>
 <div id="kariyer">
-<h3>Kariyerinizi İyi Etkiliyebilecek YouTube Kanalları ,Github Hesapları ve Github repositoryleri</h3>  
+<h3>Kariyerinizi İyi Etkiliyebilecek YouTube Kanalları ,Github Hesapları , Github repositoryleri ve Discord Sunucuları</h3>  
   
 - [Patika.dev - YouTube ](https://www.youtube.com/watch?v=q2tjTKwz9IE&list=PL1TEcULbcSLHMWxW3W8h48h_oF8Z3zxkP) : Web geliştirme, Mobil uygulama geliştirme, Blockchain gibi konulara derinlemesine dalan bir platform.
 - [Can Değer - Github ](https://github.com/LuNiZz/siber-guvenlik-sss) : Beyaz Takkeli Tornacı
@@ -391,6 +391,12 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 - [PROTOTURK](https://www.youtube.com/@PROTOTURKCOM) : Anlatılmaz yaşanır :)
 - [Web makinesi](https://www.youtube.com/@WebMakinasi) : PHP, Wordpress ile ilgilenen Developerler için ideal bir kanal
 - [Kevin Powell](https://www.youtube.com/@KevinPowell) : "CSS GOD!"
+- [TECH SCHOOL](https://www.youtube.com/@TECHSCHOOLGURU) : Golang developlerler için en iyi kanallardan birisi olabilir.
+- [GO TÜRKİYE](https://github.com/goturkiye) : Golang için en iyi kaynakları sunan ve benim de şiddetle önerdiğim bir yer. :D
+- [Kamp.us - Discord](https://discord.gg/kampus)
+- [Yazılım DEV - Discord](https://discord.gg/yazilim-dev-1034931264555339859)
+- [Kodluyoruz - Discord](https://discord.gg/qDFb8d7a)
+
 </div><hr>
 <div id="kendi-dokumasyonumuz">
 <h3>Kendi Dökümasyonlarımız</h3>
