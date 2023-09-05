@@ -370,6 +370,9 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 <h4>Back-end Developerler için</h4>
   
 - [Replit Bounties](https://replit.com/bounties) : Replitte bu kısımda milletin verdiği görevleri para karşılığı tamamlayarak antreman yapıp para kazanabilirsiniz
+
+<h4>Genel olarak</h4>
+- [Hackerrank](https://www.hackerrank.com/)
 </div>
 <div id="ornek-proje">
 <h3>Örnek Projeler</h3>
