@@ -390,6 +390,7 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 - [Jon Gjengset](https://www.youtube.com/@jonhoo) : Rust Developerler için en iyi kanal
 - [PROTOTURK](https://www.youtube.com/@PROTOTURKCOM) : Anlatılmaz yaşanır :)
 - [Web makinesi](https://www.youtube.com/@WebMakinasi) : PHP, Wordpress ile ilgilenen Developerler için ideal bir kanal
+- [Kevin Powell](https://www.youtube.com/@KevinPowell) : "CSS GOD!"
 </div><hr>
 <div id="kendi-dokumasyonumuz">
 <h3>Kendi Dökümasyonlarımız</h3>
