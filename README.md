@@ -399,7 +399,6 @@ Programlama dilini veya bir paketi öğrenmek için en kolay yol, Github'da "awe
 - [TECH SCHOOL](https://www.youtube.com/@TECHSCHOOLGURU) : Golang developlerler için en iyi kanallardan birisi olabilir.
 - [GO TÜRKİYE](https://github.com/goturkiye) : Golang için en iyi kaynakları sunan ve benim de şiddetle önerdiğim bir yer. :D
 - [Kamp.us - Discord](https://discord.gg/kampus) : Ortam güzel, düzenli coding ve chill yayınlar, sakin ve terbiyeli bir ortam mükemmel bir yer!
-- [Yazılım DEV - Discord](https://discord.gg/yazilim-dev-1034931264555339859) : Eğlencli, matrak ve bazende bilgilendirici bir ortam!
 - [Kodluyoruz - Discord](https://discord.gg/qDFb8d7a) : Anlatılmax yaşanır (2x)
 
 </div><hr>
